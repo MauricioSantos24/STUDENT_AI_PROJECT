@@ -11,5 +11,5 @@ Fiz esse projeto com entusiasmo, porém, já estou comprometido com faculdade, d
 Made by: 🎮 Mauricio Santos 👋
 
   <h4 align="Center">
- 👉 Projeto Student AI 🤖: completo!!! 📢:
+ 👉 Projeto Student AI: 🤖 completo!!! 📢
   </h4>
