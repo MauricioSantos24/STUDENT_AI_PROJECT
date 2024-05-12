@@ -1,4 +1,4 @@
-# <p align="center">📚 STUDENT_AI_PROJECT 📚</p>
+# <p align="center">📚 STUDENT_AI 📚</p>
 
 <p align="center">Esta é uma IA (Inteligência Artificial), no qual eu desenvolvi para um projeto da imersão da Alura com a Google</p>
 
